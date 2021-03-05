@@ -1,0 +1,697 @@
+Timeline,Name,Status,Country,2016 Census of Population,Lat&Long,Province,Tavg,Tmin,Tmax
+2021-02-07,Acme,Village,Canada,653,"(51.49533, -113.50819)",Alberta,-35.8,-41.0,-29.0
+2021-02-08,Acme,Village,Canada,653,"(51.49533, -113.50819)",Alberta,-32.9,-40.0,-26.0
+2021-02-09,Acme,Village,Canada,653,"(51.49533, -113.50819)",Alberta,-30.9,-35.0,-26.0
+2021-02-10,Acme,Village,Canada,653,"(51.49533, -113.50819)",Alberta,-30.7,-35.0,-27.0
+2021-02-11,Acme,Village,Canada,653,"(51.49533, -113.50819)",Alberta,-30.0,-35.0,-24.0
+2021-02-12,Acme,Village,Canada,653,"(51.49533, -113.50819)",Alberta,-21.2,-23.0,-19.0
+2021-02-07,Alix,Village,Canada,734,"(52.4004, -113.18862)",Alberta,-28.9,-35.0,-24.0
+2021-02-08,Alix,Village,Canada,734,"(52.4004, -113.18862)",Alberta,-30.0,-33.0,-27.0
+2021-02-09,Alix,Village,Canada,734,"(52.4004, -113.18862)",Alberta,-30.3,-34.0,-26.0
+2021-02-10,Alix,Village,Canada,734,"(52.4004, -113.18862)",Alberta,-30.5,-32.0,-28.0
+2021-02-11,Alix,Village,Canada,734,"(52.4004, -113.18862)",Alberta,-29.3,-33.0,-25.0
+2021-02-12,Alix,Village,Canada,734,"(52.4004, -113.18862)",Alberta,-22.5,-25.0,-20.0
+2021-02-07,Andrew,Village,Canada,425,"(53.87915, -112.33186)",Alberta,-34.4,-40.4,-26.0
+2021-02-08,Andrew,Village,Canada,425,"(53.87915, -112.33186)",Alberta,-31.2,-36.9,-26.5
+2021-02-09,Andrew,Village,Canada,425,"(53.87915, -112.33186)",Alberta,-28.6,-31.0,-27.0
+2021-02-10,Andrew,Village,Canada,425,"(53.87915, -112.33186)",Alberta,-28.3,-30.0,-26.5
+2021-02-11,Andrew,Village,Canada,425,"(53.87915, -112.33186)",Alberta,-27.6,-33.0,-23.0
+2021-02-12,Andrew,Village,Canada,425,"(53.87915, -112.33186)",Alberta,-21.9,-24.0,-20.5
+2021-02-07,Arrowwood,Village,Canada,207,"(50.73719, -113.15045)",Alberta,-28.9,-31.0,-26.0
+2021-02-08,Arrowwood,Village,Canada,207,"(50.73719, -113.15045)",Alberta,-29.6,-32.0,-25.0
+2021-02-09,Arrowwood,Village,Canada,207,"(50.73719, -113.15045)",Alberta,-29.5,-33.0,-26.0
+2021-02-10,Arrowwood,Village,Canada,207,"(50.73719, -113.15045)",Alberta,-29.6,-33.0,-28.0
+2021-02-11,Arrowwood,Village,Canada,207,"(50.73719, -113.15045)",Alberta,-30.0,-33.0,-27.0
+2021-02-12,Arrowwood,Village,Canada,207,"(50.73719, -113.15045)",Alberta,-21.9,-26.0,-19.0
+2021-02-07,Barnwell,Village,Canada,947,"(49.76051, -112.26247)",Alberta,-25.9,-29.4,-23.0
+2021-02-08,Barnwell,Village,Canada,947,"(49.76051, -112.26247)",Alberta,-28.0,-36.0,-23.0
+2021-02-09,Barnwell,Village,Canada,947,"(49.76051, -112.26247)",Alberta,-30.1,-35.6,-24.7
+2021-02-10,Barnwell,Village,Canada,947,"(49.76051, -112.26247)",Alberta,-29.5,-35.3,-25.4
+2021-02-11,Barnwell,Village,Canada,947,"(49.76051, -112.26247)",Alberta,-30.8,-35.0,-26.0
+2021-02-12,Barnwell,Village,Canada,947,"(49.76051, -112.26247)",Alberta,-24.2,-33.1,-19.4
+2021-02-07,Barons,Village,Canada,341,"(50.00002, -113.08764)",Alberta,-25.7,-29.0,-23.0
+2021-02-08,Barons,Village,Canada,341,"(50.00002, -113.08764)",Alberta,-26.3,-31.0,-22.0
+2021-02-09,Barons,Village,Canada,341,"(50.00002, -113.08764)",Alberta,-27.7,-31.0,-24.0
+2021-02-10,Barons,Village,Canada,341,"(50.00002, -113.08764)",Alberta,-27.7,-33.0,-25.0
+2021-02-11,Barons,Village,Canada,341,"(50.00002, -113.08764)",Alberta,-29.4,-33.0,-26.0
+2021-02-12,Barons,Village,Canada,341,"(50.00002, -113.08764)",Alberta,-22.9,-31.0,-19.0
+2021-02-07,Bassano,Town,Canada,1206,"(50.78587, -112.46641)",Alberta,-31.4,-38.0,-25.0
+2021-02-08,Bassano,Town,Canada,1206,"(50.78587, -112.46641)",Alberta,-32.0,-37.0,-26.0
+2021-02-09,Bassano,Town,Canada,1206,"(50.78587, -112.46641)",Alberta,-30.3,-34.0,-25.0
+2021-02-10,Bassano,Town,Canada,1206,"(50.78587, -112.46641)",Alberta,-30.3,-36.0,-26.0
+2021-02-11,Bassano,Town,Canada,1206,"(50.78587, -112.46641)",Alberta,-31.7,-37.0,-26.0
+2021-02-12,Bassano,Town,Canada,1206,"(50.78587, -112.46641)",Alberta,-21.9,-29.0,-20.0
+2021-02-07,Beaverlodge,Town,Canada,2465,"(55.20867, -119.42911)",Alberta,-38.7,-44.0,-32.0
+2021-02-08,Beaverlodge,Town,Canada,2465,"(55.20867, -119.42911)",Alberta,-32.8,-38.0,-29.0
+2021-02-09,Beaverlodge,Town,Canada,2465,"(55.20867, -119.42911)",Alberta,-34.1,-38.0,-30.0
+2021-02-10,Beaverlodge,Town,Canada,2465,"(55.20867, -119.42911)",Alberta,-30.2,-36.0,-26.0
+2021-02-11,Beaverlodge,Town,Canada,2465,"(55.20867, -119.42911)",Alberta,-30.0,-37.0,-23.0
+2021-02-12,Beaverlodge,Town,Canada,2465,"(55.20867, -119.42911)",Alberta,-21.5,-29.0,-17.0
+2021-02-07,Berwyn,Village,Canada,538,"(56.14825, -117.72162)",Alberta,-35.7,-43.0,-29.0
+2021-02-08,Berwyn,Village,Canada,538,"(56.14825, -117.72162)",Alberta,-32.0,-37.0,-28.0
+2021-02-09,Berwyn,Village,Canada,538,"(56.14825, -117.72162)",Alberta,-31.5,-37.0,-27.0
+2021-02-10,Berwyn,Village,Canada,538,"(56.14825, -117.72162)",Alberta,-29.0,-34.0,-26.0
+2021-02-11,Berwyn,Village,Canada,538,"(56.14825, -117.72162)",Alberta,-27.8,-34.0,-22.0
+2021-02-12,Berwyn,Village,Canada,538,"(56.14825, -117.72162)",Alberta,-23.7,-31.0,-19.0
+2021-02-07,Bonnyville,Town,Canada,5975,"(54.26795, -110.75332)",Alberta,-34.5,-42.0,-27.0
+2021-02-08,Bonnyville,Town,Canada,5975,"(54.26795, -110.75332)",Alberta,-30.2,-36.0,-25.0
+2021-02-09,Bonnyville,Town,Canada,5975,"(54.26795, -110.75332)",Alberta,-26.7,-28.0,-25.0
+2021-02-10,Bonnyville,Town,Canada,5975,"(54.26795, -110.75332)",Alberta,-28.5,-32.0,-27.0
+2021-02-11,Bonnyville,Town,Canada,5975,"(54.26795, -110.75332)",Alberta,-29.3,-36.0,-23.0
+2021-02-12,Bonnyville,Town,Canada,5975,"(54.26795, -110.75332)",Alberta,-21.3,-22.0,-20.0
+2021-02-07,Bow Island,Town,Canada,1983,"(49.8709, -111.35965)",Alberta,-25.6,-29.7,-21.0
+2021-02-08,Bow Island,Town,Canada,1983,"(49.8709, -111.35965)",Alberta,-27.5,-31.0,-23.7
+2021-02-09,Bow Island,Town,Canada,1983,"(49.8709, -111.35965)",Alberta,-28.7,-32.7,-24.0
+2021-02-10,Bow Island,Town,Canada,1983,"(49.8709, -111.35965)",Alberta,-28.6,-32.7,-25.0
+2021-02-11,Bow Island,Town,Canada,1983,"(49.8709, -111.35965)",Alberta,-29.7,-32.7,-25.7
+2021-02-12,Bow Island,Town,Canada,1983,"(49.8709, -111.35965)",Alberta,-23.0,-30.5,-20.0
+2021-02-07,Brooks,City,Canada,14451,"(50.56592, -111.89882)",Alberta,-29.5,-35.4,-23.5
+2021-02-08,Brooks,City,Canada,14451,"(50.56592, -111.89882)",Alberta,-30.7,-35.0,-25.0
+2021-02-09,Brooks,City,Canada,14451,"(50.56592, -111.89882)",Alberta,-29.3,-33.0,-24.5
+2021-02-10,Brooks,City,Canada,14451,"(50.56592, -111.89882)",Alberta,-29.4,-34.0,-26.0
+2021-02-11,Brooks,City,Canada,14451,"(50.56592, -111.89882)",Alberta,-30.5,-34.4,-26.0
+2021-02-12,Brooks,City,Canada,14451,"(50.56592, -111.89882)",Alberta,-21.8,-29.0,-20.0
+2021-02-07,Bruderheim,Town,Canada,1308,"(53.80345, -112.92709)",Alberta,-35.2,-43.0,-24.0
+2021-02-08,Bruderheim,Town,Canada,1308,"(53.80345, -112.92709)",Alberta,-31.9,-40.0,-26.0
+2021-02-09,Bruderheim,Town,Canada,1308,"(53.80345, -112.92709)",Alberta,-28.7,-31.0,-26.0
+2021-02-10,Bruderheim,Town,Canada,1308,"(53.80345, -112.92709)",Alberta,-28.4,-32.0,-26.0
+2021-02-11,Bruderheim,Town,Canada,1308,"(53.80345, -112.92709)",Alberta,-26.8,-30.0,-24.0
+2021-02-12,Bruderheim,Town,Canada,1308,"(53.80345, -112.92709)",Alberta,-21.4,-24.0,-20.0
+2021-02-07,Burnstick Lake,Summer village,Canada,15,"(51.99122, -114.88706)",Alberta,-30.8,-40.0,-22.0
+2021-02-08,Burnstick Lake,Summer village,Canada,15,"(51.99122, -114.88706)",Alberta,-28.4,-34.0,-23.0
+2021-02-09,Burnstick Lake,Summer village,Canada,15,"(51.99122, -114.88706)",Alberta,-31.6,-37.0,-24.0
+2021-02-10,Burnstick Lake,Summer village,Canada,15,"(51.99122, -114.88706)",Alberta,-32.1,-37.0,-26.0
+2021-02-11,Burnstick Lake,Summer village,Canada,15,"(51.99122, -114.88706)",Alberta,-30.5,-41.0,-23.0
+2021-02-12,Burnstick Lake,Summer village,Canada,15,"(51.99122, -114.88706)",Alberta,-20.3,-23.0,-17.0
+2021-02-07,Carbon,Village,Canada,454,"(51.48524, -113.14204)",Alberta,-33.7,-39.7,-26.0
+2021-02-08,Carbon,Village,Canada,454,"(51.48524, -113.14204)",Alberta,-32.5,-39.1,-25.1
+2021-02-09,Carbon,Village,Canada,454,"(51.48524, -113.14204)",Alberta,-30.9,-35.9,-25.1
+2021-02-10,Carbon,Village,Canada,454,"(51.48524, -113.14204)",Alberta,-31.0,-35.9,-26.1
+2021-02-11,Carbon,Village,Canada,454,"(51.48524, -113.14204)",Alberta,-30.5,-36.7,-24.4
+2021-02-12,Carbon,Village,Canada,454,"(51.48524, -113.14204)",Alberta,-21.0,-25.1,-18.6
+2021-02-07,Cardston,Town,Canada,3585,"(49.19848, -113.30177)",Alberta,-22.8,-26.0,-19.0
+2021-02-08,Cardston,Town,Canada,3585,"(49.19848, -113.30177)",Alberta,-25.5,-27.0,-24.0
+2021-02-09,Cardston,Town,Canada,3585,"(49.19848, -113.30177)",Alberta,-29.3,-36.0,-23.0
+2021-02-10,Cardston,Town,Canada,3585,"(49.19848, -113.30177)",Alberta,-29.3,-36.0,-24.0
+2021-02-11,Cardston,Town,Canada,3585,"(49.19848, -113.30177)",Alberta,-29.7,-35.0,-25.0
+2021-02-12,Cardston,Town,Canada,3585,"(49.19848, -113.30177)",Alberta,-26.0,-35.0,-18.0
+2021-02-07,Carmangay,Village,Canada,242,"(50.12684, -113.11335)",Alberta,-25.2,-30.0,-22.0
+2021-02-08,Carmangay,Village,Canada,242,"(50.12684, -113.11335)",Alberta,-27.1,-35.0,-23.0
+2021-02-09,Carmangay,Village,Canada,242,"(50.12684, -113.11335)",Alberta,-28.9,-34.0,-23.0
+2021-02-10,Carmangay,Village,Canada,242,"(50.12684, -113.11335)",Alberta,-28.7,-33.0,-26.0
+2021-02-11,Carmangay,Village,Canada,242,"(50.12684, -113.11335)",Alberta,-31.2,-36.0,-25.0
+2021-02-12,Carmangay,Village,Canada,242,"(50.12684, -113.11335)",Alberta,-22.7,-33.0,-18.0
+2021-02-07,Carstairs,Town,Canada,4077,"(51.56288, -114.09538)",Alberta,-30.8,-33.0,-28.0
+2021-02-08,Carstairs,Town,Canada,4077,"(51.56288, -114.09538)",Alberta,-29.8,-35.0,-26.0
+2021-02-09,Carstairs,Town,Canada,4077,"(51.56288, -114.09538)",Alberta,-29.6,-34.0,-26.0
+2021-02-10,Carstairs,Town,Canada,4077,"(51.56288, -114.09538)",Alberta,-29.8,-33.0,-28.0
+2021-02-11,Carstairs,Town,Canada,4077,"(51.56288, -114.09538)",Alberta,-28.8,-34.0,-24.0
+2021-02-12,Carstairs,Town,Canada,4077,"(51.56288, -114.09538)",Alberta,-21.3,-24.0,-19.0
+2021-02-07,Cereal,Village,Canada,111,"(51.42011, -110.80189)",Alberta,-32.2,-35.0,-28.0
+2021-02-08,Cereal,Village,Canada,111,"(51.42011, -110.80189)",Alberta,-31.6,-36.0,-28.0
+2021-02-09,Cereal,Village,Canada,111,"(51.42011, -110.80189)",Alberta,-29.9,-33.0,-27.0
+2021-02-10,Cereal,Village,Canada,111,"(51.42011, -110.80189)",Alberta,-31.0,-34.0,-28.0
+2021-02-11,Cereal,Village,Canada,111,"(51.42011, -110.80189)",Alberta,-32.1,-36.0,-28.0
+2021-02-12,Cereal,Village,Canada,111,"(51.42011, -110.80189)",Alberta,-24.7,-30.0,-22.0
+2021-02-07,Champion,Village,Canada,317,"(50.23877, -113.14784)",Alberta,-25.2,-30.0,-22.0
+2021-02-08,Champion,Village,Canada,317,"(50.23877, -113.14784)",Alberta,-27.1,-35.0,-23.0
+2021-02-09,Champion,Village,Canada,317,"(50.23877, -113.14784)",Alberta,-28.9,-34.0,-23.0
+2021-02-10,Champion,Village,Canada,317,"(50.23877, -113.14784)",Alberta,-28.7,-33.0,-26.0
+2021-02-11,Champion,Village,Canada,317,"(50.23877, -113.14784)",Alberta,-31.2,-36.0,-25.0
+2021-02-12,Champion,Village,Canada,317,"(50.23877, -113.14784)",Alberta,-22.7,-33.0,-18.0
+2021-02-07,Chestermere,City,Canada,19887,"(51.05228, -113.81588)",Alberta,-25.8,-29.0,-23.0
+2021-02-08,Chestermere,City,Canada,19887,"(51.05228, -113.81588)",Alberta,-25.7,-29.0,-24.0
+2021-02-09,Chestermere,City,Canada,19887,"(51.05228, -113.81588)",Alberta,-26.8,-29.0,-25.0
+2021-02-10,Chestermere,City,Canada,19887,"(51.05228, -113.81588)",Alberta,-27.4,-29.0,-26.0
+2021-02-11,Chestermere,City,Canada,19887,"(51.05228, -113.81588)",Alberta,-27.6,-30.0,-25.0
+2021-02-12,Chestermere,City,Canada,19887,"(51.05228, -113.81588)",Alberta,-20.2,-25.0,-18.0
+2021-02-07,Chipman,Village,Canada,274,"(53.69901, -112.63488)",Alberta,-34.4,-40.4,-26.0
+2021-02-08,Chipman,Village,Canada,274,"(53.69901, -112.63488)",Alberta,-31.2,-36.9,-26.5
+2021-02-09,Chipman,Village,Canada,274,"(53.69901, -112.63488)",Alberta,-28.6,-31.0,-27.0
+2021-02-10,Chipman,Village,Canada,274,"(53.69901, -112.63488)",Alberta,-28.3,-30.0,-26.5
+2021-02-11,Chipman,Village,Canada,274,"(53.69901, -112.63488)",Alberta,-27.6,-33.0,-23.0
+2021-02-12,Chipman,Village,Canada,274,"(53.69901, -112.63488)",Alberta,-21.9,-24.0,-20.5
+2021-02-07,Claresholm,Town,Canada,3780,"(50.02608, -113.58214)",Alberta,-24.5,-29.0,-21.0
+2021-02-08,Claresholm,Town,Canada,3780,"(50.02608, -113.58214)",Alberta,-26.4,-35.5,-22.5
+2021-02-09,Claresholm,Town,Canada,3780,"(50.02608, -113.58214)",Alberta,-28.4,-34.5,-22.5
+2021-02-10,Claresholm,Town,Canada,3780,"(50.02608, -113.58214)",Alberta,-28.2,-33.0,-24.0
+2021-02-11,Claresholm,Town,Canada,3780,"(50.02608, -113.58214)",Alberta,-30.2,-35.5,-24.0
+2021-02-12,Claresholm,Town,Canada,3780,"(50.02608, -113.58214)",Alberta,-22.9,-33.5,-17.0
+2021-02-07,Clive,Village,Canada,715,"(52.47773, -113.4487)",Alberta,-28.9,-35.0,-24.0
+2021-02-08,Clive,Village,Canada,715,"(52.47773, -113.4487)",Alberta,-30.0,-33.0,-27.0
+2021-02-09,Clive,Village,Canada,715,"(52.47773, -113.4487)",Alberta,-30.3,-34.0,-26.0
+2021-02-10,Clive,Village,Canada,715,"(52.47773, -113.4487)",Alberta,-30.5,-32.0,-28.0
+2021-02-11,Clive,Village,Canada,715,"(52.47773, -113.4487)",Alberta,-29.3,-33.0,-25.0
+2021-02-12,Clive,Village,Canada,715,"(52.47773, -113.4487)",Alberta,-22.5,-25.0,-20.0
+2021-02-07,Clyde,Village,Canada,430,"(54.14699, -113.63652)",Alberta,-38.5,-45.0,-28.0
+2021-02-08,Clyde,Village,Canada,430,"(54.14699, -113.63652)",Alberta,-34.8,-43.0,-25.0
+2021-02-09,Clyde,Village,Canada,430,"(54.14699, -113.63652)",Alberta,-28.5,-33.0,-24.0
+2021-02-10,Clyde,Village,Canada,430,"(54.14699, -113.63652)",Alberta,-27.6,-31.0,-25.0
+2021-02-11,Clyde,Village,Canada,430,"(54.14699, -113.63652)",Alberta,-26.6,-31.0,-23.0
+2021-02-12,Clyde,Village,Canada,430,"(54.14699, -113.63652)",Alberta,-21.1,-24.0,-19.0
+2021-02-07,Cold Lake,City,Canada,14961,"(54.46505, -110.1738)",Alberta,-34.5,-42.0,-27.0
+2021-02-08,Cold Lake,City,Canada,14961,"(54.46505, -110.1738)",Alberta,-30.2,-36.0,-25.0
+2021-02-09,Cold Lake,City,Canada,14961,"(54.46505, -110.1738)",Alberta,-26.7,-28.0,-25.0
+2021-02-10,Cold Lake,City,Canada,14961,"(54.46505, -110.1738)",Alberta,-28.5,-32.0,-27.0
+2021-02-11,Cold Lake,City,Canada,14961,"(54.46505, -110.1738)",Alberta,-29.3,-36.0,-23.0
+2021-02-12,Cold Lake,City,Canada,14961,"(54.46505, -110.1738)",Alberta,-21.3,-22.0,-20.0
+2021-02-07,Consort,Village,Canada,729,"(52.0081, -110.76608)",Alberta,-32.1,-37.0,-28.0
+2021-02-08,Consort,Village,Canada,729,"(52.0081, -110.76608)",Alberta,-30.6,-34.0,-28.0
+2021-02-09,Consort,Village,Canada,729,"(52.0081, -110.76608)",Alberta,-28.8,-31.0,-26.0
+2021-02-10,Consort,Village,Canada,729,"(52.0081, -110.76608)",Alberta,-30.0,-33.0,-28.0
+2021-02-11,Consort,Village,Canada,729,"(52.0081, -110.76608)",Alberta,-30.9,-35.0,-26.0
+2021-02-12,Consort,Village,Canada,729,"(52.0081, -110.76608)",Alberta,-23.3,-25.0,-22.0
+2021-02-07,Coutts,Village,Canada,245,"(49.00525, -111.96233)",Alberta,-24.3,-26.0,-22.0
+2021-02-08,Coutts,Village,Canada,245,"(49.00525, -111.96233)",Alberta,-26.0,-31.0,-23.0
+2021-02-09,Coutts,Village,Canada,245,"(49.00525, -111.96233)",Alberta,-30.7,-36.0,-24.0
+2021-02-10,Coutts,Village,Canada,245,"(49.00525, -111.96233)",Alberta,-30.3,-35.0,-25.0
+2021-02-11,Coutts,Village,Canada,245,"(49.00525, -111.96233)",Alberta,-30.7,-36.0,-26.0
+2021-02-12,Coutts,Village,Canada,245,"(49.00525, -111.96233)",Alberta,-27.3,-36.0,-20.0
+2021-02-07,Cowley,Village,Canada,209,"(49.56871, -114.07478)",Alberta,-21.9,-24.0,-16.0
+2021-02-08,Cowley,Village,Canada,209,"(49.56871, -114.07478)",Alberta,-24.8,-33.0,-22.0
+2021-02-09,Cowley,Village,Canada,209,"(49.56871, -114.07478)",Alberta,-27.3,-34.0,-21.0
+2021-02-10,Cowley,Village,Canada,209,"(49.56871, -114.07478)",Alberta,-27.1,-32.0,-23.0
+2021-02-11,Cowley,Village,Canada,209,"(49.56871, -114.07478)",Alberta,-30.0,-37.0,-23.0
+2021-02-12,Cowley,Village,Canada,209,"(49.56871, -114.07478)",Alberta,-27.6,-38.0,-15.0
+2021-02-07,Cremona,Village,Canada,444,"(51.54537, -114.49449)",Alberta,-30.8,-40.0,-22.0
+2021-02-08,Cremona,Village,Canada,444,"(51.54537, -114.49449)",Alberta,-28.4,-34.0,-23.0
+2021-02-09,Cremona,Village,Canada,444,"(51.54537, -114.49449)",Alberta,-31.6,-37.0,-24.0
+2021-02-10,Cremona,Village,Canada,444,"(51.54537, -114.49449)",Alberta,-32.1,-37.0,-26.0
+2021-02-11,Cremona,Village,Canada,444,"(51.54537, -114.49449)",Alberta,-30.5,-41.0,-23.0
+2021-02-12,Cremona,Village,Canada,444,"(51.54537, -114.49449)",Alberta,-20.3,-23.0,-17.0
+2021-02-07,Crossfield,Town,Canada,2983,"(51.42954, -114.02705)",Alberta,-25.8,-29.0,-23.0
+2021-02-08,Crossfield,Town,Canada,2983,"(51.42954, -114.02705)",Alberta,-25.7,-29.0,-24.0
+2021-02-09,Crossfield,Town,Canada,2983,"(51.42954, -114.02705)",Alberta,-26.8,-29.0,-25.0
+2021-02-10,Crossfield,Town,Canada,2983,"(51.42954, -114.02705)",Alberta,-27.4,-29.0,-26.0
+2021-02-11,Crossfield,Town,Canada,2983,"(51.42954, -114.02705)",Alberta,-27.6,-30.0,-25.0
+2021-02-12,Crossfield,Town,Canada,2983,"(51.42954, -114.02705)",Alberta,-20.2,-25.0,-18.0
+2021-02-07,Daysland,Town,Canada,824,"(52.86356, -112.2614)",Alberta,-34.8,-41.0,-28.0
+2021-02-08,Daysland,Town,Canada,824,"(52.86356, -112.2614)",Alberta,-32.3,-38.0,-27.0
+2021-02-09,Daysland,Town,Canada,824,"(52.86356, -112.2614)",Alberta,-29.0,-32.0,-26.0
+2021-02-10,Daysland,Town,Canada,824,"(52.86356, -112.2614)",Alberta,-29.5,-33.0,-27.0
+2021-02-11,Daysland,Town,Canada,824,"(52.86356, -112.2614)",Alberta,-28.5,-33.0,-23.0
+2021-02-12,Daysland,Town,Canada,824,"(52.86356, -112.2614)",Alberta,-21.8,-23.0,-20.0
+2021-02-07,Delia[f],Village,Canada,216,"(51.6338, -112.37472)",Alberta,-30.8,-38.0,-22.0
+2021-02-08,Delia[f],Village,Canada,216,"(51.6338, -112.37472)",Alberta,-32.0,-38.0,-24.0
+2021-02-09,Delia[f],Village,Canada,216,"(51.6338, -112.37472)",Alberta,-30.8,-37.0,-24.0
+2021-02-10,Delia[f],Village,Canada,216,"(51.6338, -112.37472)",Alberta,-31.5,-37.0,-25.0
+2021-02-11,Delia[f],Village,Canada,216,"(51.6338, -112.37472)",Alberta,-31.2,-39.0,-25.0
+2021-02-12,Delia[f],Village,Canada,216,"(51.6338, -112.37472)",Alberta,-20.8,-28.0,-18.0
+2021-02-07,Didsbury,Town,Canada,5268,"(51.66627, -114.13789)",Alberta,-30.8,-33.0,-28.0
+2021-02-08,Didsbury,Town,Canada,5268,"(51.66627, -114.13789)",Alberta,-29.8,-35.0,-26.0
+2021-02-09,Didsbury,Town,Canada,5268,"(51.66627, -114.13789)",Alberta,-29.6,-34.0,-26.0
+2021-02-10,Didsbury,Town,Canada,5268,"(51.66627, -114.13789)",Alberta,-29.8,-33.0,-28.0
+2021-02-11,Didsbury,Town,Canada,5268,"(51.66627, -114.13789)",Alberta,-28.8,-34.0,-24.0
+2021-02-12,Didsbury,Town,Canada,5268,"(51.66627, -114.13789)",Alberta,-21.3,-24.0,-19.0
+2021-02-07,Donalda,Village,Canada,219,"(52.58342, -112.57523)",Alberta,-31.4,-35.0,-25.0
+2021-02-08,Donalda,Village,Canada,219,"(52.58342, -112.57523)",Alberta,-32.0,-37.0,-27.0
+2021-02-09,Donalda,Village,Canada,219,"(52.58342, -112.57523)",Alberta,-30.1,-34.0,-26.0
+2021-02-10,Donalda,Village,Canada,219,"(52.58342, -112.57523)",Alberta,-30.3,-34.0,-28.0
+2021-02-11,Donalda,Village,Canada,219,"(52.58342, -112.57523)",Alberta,-28.8,-34.0,-24.0
+2021-02-12,Donalda,Village,Canada,219,"(52.58342, -112.57523)",Alberta,-22.0,-24.0,-20.0
+2021-02-07,Drumheller,Town,Canada,7982,"(51.46155, -112.70878)",Alberta,-30.5,-35.1,-24.9
+2021-02-08,Drumheller,Town,Canada,7982,"(51.46155, -112.70878)",Alberta,-31.4,-35.1,-26.4
+2021-02-09,Drumheller,Town,Canada,7982,"(51.46155, -112.70878)",Alberta,-30.4,-34.6,-26.4
+2021-02-10,Drumheller,Town,Canada,7982,"(51.46155, -112.70878)",Alberta,-30.9,-34.6,-26.8
+2021-02-11,Drumheller,Town,Canada,7982,"(51.46155, -112.70878)",Alberta,-31.0,-36.1,-26.8
+2021-02-12,Drumheller,Town,Canada,7982,"(51.46155, -112.70878)",Alberta,-22.3,-27.4,-20.4
+2021-02-07,Duchess,Village,Canada,1085,"(50.73249, -111.90441)",Alberta,-29.5,-35.4,-23.5
+2021-02-08,Duchess,Village,Canada,1085,"(50.73249, -111.90441)",Alberta,-30.7,-35.0,-25.0
+2021-02-09,Duchess,Village,Canada,1085,"(50.73249, -111.90441)",Alberta,-29.3,-33.0,-24.5
+2021-02-10,Duchess,Village,Canada,1085,"(50.73249, -111.90441)",Alberta,-29.4,-34.0,-26.0
+2021-02-11,Duchess,Village,Canada,1085,"(50.73249, -111.90441)",Alberta,-30.5,-34.4,-26.0
+2021-02-12,Duchess,Village,Canada,1085,"(50.73249, -111.90441)",Alberta,-21.8,-29.0,-20.0
+2021-02-07,Elk Point,Town,Canada,1452,"(53.89749, -110.89628)",Alberta,-35.5,-43.0,-28.0
+2021-02-08,Elk Point,Town,Canada,1452,"(53.89749, -110.89628)",Alberta,-32.1,-40.0,-26.0
+2021-02-09,Elk Point,Town,Canada,1452,"(53.89749, -110.89628)",Alberta,-28.5,-30.0,-26.0
+2021-02-10,Elk Point,Town,Canada,1452,"(53.89749, -110.89628)",Alberta,-29.6,-33.0,-28.0
+2021-02-11,Elk Point,Town,Canada,1452,"(53.89749, -110.89628)",Alberta,-30.3,-37.0,-25.0
+2021-02-12,Elk Point,Town,Canada,1452,"(53.89749, -110.89628)",Alberta,-22.8,-25.0,-21.0
+2021-02-07,Elnora,Village,Canada,298,"(51.99738, -113.1964)",Alberta,-35.8,-41.0,-29.0
+2021-02-08,Elnora,Village,Canada,298,"(51.99738, -113.1964)",Alberta,-32.9,-40.0,-26.0
+2021-02-09,Elnora,Village,Canada,298,"(51.99738, -113.1964)",Alberta,-30.9,-35.0,-26.0
+2021-02-10,Elnora,Village,Canada,298,"(51.99738, -113.1964)",Alberta,-30.7,-35.0,-27.0
+2021-02-11,Elnora,Village,Canada,298,"(51.99738, -113.1964)",Alberta,-30.0,-35.0,-24.0
+2021-02-12,Elnora,Village,Canada,298,"(51.99738, -113.1964)",Alberta,-21.2,-23.0,-19.0
+2021-02-07,Fairview,Town,Canada,2998,"(56.06862, -118.39201)",Alberta,-34.5,-40.0,-28.0
+2021-02-08,Fairview,Town,Canada,2998,"(56.06862, -118.39201)",Alberta,-31.5,-36.0,-27.0
+2021-02-09,Fairview,Town,Canada,2998,"(56.06862, -118.39201)",Alberta,-33.9,-39.0,-28.0
+2021-02-10,Fairview,Town,Canada,2998,"(56.06862, -118.39201)",Alberta,-29.5,-33.0,-27.0
+2021-02-11,Fairview,Town,Canada,2998,"(56.06862, -118.39201)",Alberta,-30.5,-36.0,-24.0
+2021-02-12,Fairview,Town,Canada,2998,"(56.06862, -118.39201)",Alberta,-23.4,-29.0,-19.0
+2021-02-07,Foremost,Village,Canada,541,"(49.47904, -111.44142)",Alberta,-26.0,-30.5,-22.5
+2021-02-08,Foremost,Village,Canada,541,"(49.47904, -111.44142)",Alberta,-27.8,-33.5,-24.0
+2021-02-09,Foremost,Village,Canada,541,"(49.47904, -111.44142)",Alberta,-30.1,-34.0,-25.0
+2021-02-10,Foremost,Village,Canada,541,"(49.47904, -111.44142)",Alberta,-29.5,-34.5,-25.5
+2021-02-11,Foremost,Village,Canada,541,"(49.47904, -111.44142)",Alberta,-30.2,-33.5,-26.5
+2021-02-12,Foremost,Village,Canada,541,"(49.47904, -111.44142)",Alberta,-23.8,-32.0,-20.5
+2021-02-07,Forestburg,Village,Canada,875,"(52.58261, -112.06445)",Alberta,-34.8,-41.0,-28.0
+2021-02-08,Forestburg,Village,Canada,875,"(52.58261, -112.06445)",Alberta,-32.3,-38.0,-27.0
+2021-02-09,Forestburg,Village,Canada,875,"(52.58261, -112.06445)",Alberta,-29.0,-32.0,-26.0
+2021-02-10,Forestburg,Village,Canada,875,"(52.58261, -112.06445)",Alberta,-29.5,-33.0,-27.0
+2021-02-11,Forestburg,Village,Canada,875,"(52.58261, -112.06445)",Alberta,-28.5,-33.0,-23.0
+2021-02-12,Forestburg,Village,Canada,875,"(52.58261, -112.06445)",Alberta,-21.8,-23.0,-20.0
+2021-02-07,Fort Macleod[h],Town,Canada,2967,"(49.72608, -113.39564)",Alberta,-23.8,-28.9,-20.4
+2021-02-08,Fort Macleod[h],Town,Canada,2967,"(49.72608, -113.39564)",Alberta,-26.8,-33.4,-23.5
+2021-02-09,Fort Macleod[h],Town,Canada,2967,"(49.72608, -113.39564)",Alberta,-28.8,-33.4,-24.5
+2021-02-10,Fort Macleod[h],Town,Canada,2967,"(49.72608, -113.39564)",Alberta,-29.3,-34.5,-24.0
+2021-02-11,Fort Macleod[h],Town,Canada,2967,"(49.72608, -113.39564)",Alberta,-31.0,-36.5,-25.0
+2021-02-12,Fort Macleod[h],Town,Canada,2967,"(49.72608, -113.39564)",Alberta,-24.8,-35.4,-17.4
+2021-02-07,Gadsby,Village,Canada,40,"(52.29701, -112.35738)",Alberta,-31.4,-35.0,-25.0
+2021-02-08,Gadsby,Village,Canada,40,"(52.29701, -112.35738)",Alberta,-32.0,-37.0,-27.0
+2021-02-09,Gadsby,Village,Canada,40,"(52.29701, -112.35738)",Alberta,-30.1,-34.0,-26.0
+2021-02-10,Gadsby,Village,Canada,40,"(52.29701, -112.35738)",Alberta,-30.3,-34.0,-28.0
+2021-02-11,Gadsby,Village,Canada,40,"(52.29701, -112.35738)",Alberta,-28.8,-34.0,-24.0
+2021-02-12,Gadsby,Village,Canada,40,"(52.29701, -112.35738)",Alberta,-22.0,-24.0,-20.0
+2021-02-07,Glendon,Village,Canada,493,"(54.24719, -111.15383)",Alberta,-35.5,-43.0,-28.0
+2021-02-08,Glendon,Village,Canada,493,"(54.24719, -111.15383)",Alberta,-32.1,-40.0,-26.0
+2021-02-09,Glendon,Village,Canada,493,"(54.24719, -111.15383)",Alberta,-28.5,-30.0,-26.0
+2021-02-10,Glendon,Village,Canada,493,"(54.24719, -111.15383)",Alberta,-29.6,-33.0,-28.0
+2021-02-11,Glendon,Village,Canada,493,"(54.24719, -111.15383)",Alberta,-30.3,-37.0,-25.0
+2021-02-12,Glendon,Village,Canada,493,"(54.24719, -111.15383)",Alberta,-22.8,-25.0,-21.0
+2021-02-07,Glenwood,Village,Canada,316,"(49.36628, -113.52187)",Alberta,-22.8,-26.0,-19.0
+2021-02-08,Glenwood,Village,Canada,316,"(49.36628, -113.52187)",Alberta,-25.5,-27.0,-24.0
+2021-02-09,Glenwood,Village,Canada,316,"(49.36628, -113.52187)",Alberta,-29.3,-36.0,-23.0
+2021-02-10,Glenwood,Village,Canada,316,"(49.36628, -113.52187)",Alberta,-29.3,-36.0,-24.0
+2021-02-11,Glenwood,Village,Canada,316,"(49.36628, -113.52187)",Alberta,-29.7,-35.0,-25.0
+2021-02-12,Glenwood,Village,Canada,316,"(49.36628, -113.52187)",Alberta,-26.0,-35.0,-18.0
+2021-02-07,Grande Prairie,City,Canada,63166,"(55.17113, -118.79491)",Alberta,-38.7,-44.0,-32.0
+2021-02-08,Grande Prairie,City,Canada,63166,"(55.17113, -118.79491)",Alberta,-32.8,-38.0,-29.0
+2021-02-09,Grande Prairie,City,Canada,63166,"(55.17113, -118.79491)",Alberta,-34.1,-38.0,-30.0
+2021-02-10,Grande Prairie,City,Canada,63166,"(55.17113, -118.79491)",Alberta,-30.2,-36.0,-26.0
+2021-02-11,Grande Prairie,City,Canada,63166,"(55.17113, -118.79491)",Alberta,-30.0,-37.0,-23.0
+2021-02-12,Grande Prairie,City,Canada,63166,"(55.17113, -118.79491)",Alberta,-21.5,-29.0,-17.0
+2021-02-07,Granum,Town,Canada,406,"(49.87362, -113.51808)",Alberta,-23.8,-28.0,-20.0
+2021-02-08,Granum,Town,Canada,406,"(49.87362, -113.51808)",Alberta,-25.8,-36.0,-22.0
+2021-02-09,Granum,Town,Canada,406,"(49.87362, -113.51808)",Alberta,-28.0,-35.0,-22.0
+2021-02-10,Granum,Town,Canada,406,"(49.87362, -113.51808)",Alberta,-27.8,-33.0,-22.0
+2021-02-11,Granum,Town,Canada,406,"(49.87362, -113.51808)",Alberta,-29.3,-35.0,-23.0
+2021-02-12,Granum,Town,Canada,406,"(49.87362, -113.51808)",Alberta,-23.0,-34.0,-16.0
+2021-02-07,Grimshaw,Town,Canada,2718,"(56.19137, -117.61049)",Alberta,-35.7,-43.0,-29.0
+2021-02-08,Grimshaw,Town,Canada,2718,"(56.19137, -117.61049)",Alberta,-32.0,-37.0,-28.0
+2021-02-09,Grimshaw,Town,Canada,2718,"(56.19137, -117.61049)",Alberta,-31.5,-37.0,-27.0
+2021-02-10,Grimshaw,Town,Canada,2718,"(56.19137, -117.61049)",Alberta,-29.0,-34.0,-26.0
+2021-02-11,Grimshaw,Town,Canada,2718,"(56.19137, -117.61049)",Alberta,-27.8,-34.0,-22.0
+2021-02-12,Grimshaw,Town,Canada,2718,"(56.19137, -117.61049)",Alberta,-23.7,-31.0,-19.0
+2021-02-07,Halkirk,Village,Canada,112,"(52.28072, -112.15799)",Alberta,-31.4,-35.0,-25.0
+2021-02-08,Halkirk,Village,Canada,112,"(52.28072, -112.15799)",Alberta,-32.0,-37.0,-27.0
+2021-02-09,Halkirk,Village,Canada,112,"(52.28072, -112.15799)",Alberta,-30.1,-34.0,-26.0
+2021-02-10,Halkirk,Village,Canada,112,"(52.28072, -112.15799)",Alberta,-30.3,-34.0,-28.0
+2021-02-11,Halkirk,Village,Canada,112,"(52.28072, -112.15799)",Alberta,-28.8,-34.0,-24.0
+2021-02-12,Halkirk,Village,Canada,112,"(52.28072, -112.15799)",Alberta,-22.0,-24.0,-20.0
+2021-02-07,Heisler,Village,Canada,160,"(52.66887, -112.22444)",Alberta,-34.8,-41.0,-28.0
+2021-02-08,Heisler,Village,Canada,160,"(52.66887, -112.22444)",Alberta,-32.3,-38.0,-27.0
+2021-02-09,Heisler,Village,Canada,160,"(52.66887, -112.22444)",Alberta,-29.0,-32.0,-26.0
+2021-02-10,Heisler,Village,Canada,160,"(52.66887, -112.22444)",Alberta,-29.5,-33.0,-27.0
+2021-02-11,Heisler,Village,Canada,160,"(52.66887, -112.22444)",Alberta,-28.5,-33.0,-23.0
+2021-02-12,Heisler,Village,Canada,160,"(52.66887, -112.22444)",Alberta,-21.8,-23.0,-20.0
+2021-02-07,High Level,Town,Canada,3159,"(58.51729, -117.12527)",Alberta,-36.7,-41.0,-26.0
+2021-02-08,High Level,Town,Canada,3159,"(58.51729, -117.12527)",Alberta,-32.1,-36.0,-29.0
+2021-02-09,High Level,Town,Canada,3159,"(58.51729, -117.12527)",Alberta,-28.4,-30.0,-26.0
+2021-02-10,High Level,Town,Canada,3159,"(58.51729, -117.12527)",Alberta,-27.1,-28.0,-24.0
+2021-02-11,High Level,Town,Canada,3159,"(58.51729, -117.12527)",Alberta,-25.7,-31.0,-22.0
+2021-02-12,High Level,Town,Canada,3159,"(58.51729, -117.12527)",Alberta,-26.1,-32.0,-20.0
+2021-02-07,High Prairie,Town,Canada,2564,"(55.43288, -116.48134)",Alberta,-37.3,-43.0,-29.0
+2021-02-08,High Prairie,Town,Canada,2564,"(55.43288, -116.48134)",Alberta,-32.9,-36.0,-28.0
+2021-02-09,High Prairie,Town,Canada,2564,"(55.43288, -116.48134)",Alberta,-32.0,-35.0,-29.0
+2021-02-10,High Prairie,Town,Canada,2564,"(55.43288, -116.48134)",Alberta,-29.9,-36.0,-26.0
+2021-02-11,High Prairie,Town,Canada,2564,"(55.43288, -116.48134)",Alberta,-30.3,-36.0,-25.0
+2021-02-12,High Prairie,Town,Canada,2564,"(55.43288, -116.48134)",Alberta,-22.3,-29.0,-18.0
+2021-02-07,Hill Spring,Village,Canada,162,"(49.29466, -113.62402)",Alberta,-22.8,-26.0,-19.0
+2021-02-08,Hill Spring,Village,Canada,162,"(49.29466, -113.62402)",Alberta,-25.5,-27.0,-24.0
+2021-02-09,Hill Spring,Village,Canada,162,"(49.29466, -113.62402)",Alberta,-29.3,-36.0,-23.0
+2021-02-10,Hill Spring,Village,Canada,162,"(49.29466, -113.62402)",Alberta,-29.3,-36.0,-24.0
+2021-02-11,Hill Spring,Village,Canada,162,"(49.29466, -113.62402)",Alberta,-29.7,-35.0,-25.0
+2021-02-12,Hill Spring,Village,Canada,162,"(49.29466, -113.62402)",Alberta,-26.0,-35.0,-18.0
+2021-02-07,Hines Creek,Village,Canada,346,"(56.24732, -118.60225)",Alberta,-34.5,-40.0,-28.0
+2021-02-08,Hines Creek,Village,Canada,346,"(56.24732, -118.60225)",Alberta,-31.5,-36.0,-27.0
+2021-02-09,Hines Creek,Village,Canada,346,"(56.24732, -118.60225)",Alberta,-33.9,-39.0,-28.0
+2021-02-10,Hines Creek,Village,Canada,346,"(56.24732, -118.60225)",Alberta,-29.5,-33.0,-27.0
+2021-02-11,Hines Creek,Village,Canada,346,"(56.24732, -118.60225)",Alberta,-30.5,-36.0,-24.0
+2021-02-12,Hines Creek,Village,Canada,346,"(56.24732, -118.60225)",Alberta,-23.4,-29.0,-19.0
+2021-02-07,Horseshoe Bay,Summer village,Canada,49,"(54.12212, -111.3647)",Alberta,-35.5,-43.0,-28.0
+2021-02-08,Horseshoe Bay,Summer village,Canada,49,"(54.12212, -111.3647)",Alberta,-32.1,-40.0,-26.0
+2021-02-09,Horseshoe Bay,Summer village,Canada,49,"(54.12212, -111.3647)",Alberta,-28.5,-30.0,-26.0
+2021-02-10,Horseshoe Bay,Summer village,Canada,49,"(54.12212, -111.3647)",Alberta,-29.6,-33.0,-28.0
+2021-02-11,Horseshoe Bay,Summer village,Canada,49,"(54.12212, -111.3647)",Alberta,-30.3,-37.0,-25.0
+2021-02-12,Horseshoe Bay,Summer village,Canada,49,"(54.12212, -111.3647)",Alberta,-22.8,-25.0,-21.0
+2021-02-07,Hussar,Village,Canada,190,"(51.03794, -112.67633)",Alberta,-30.3,-33.0,-27.0
+2021-02-08,Hussar,Village,Canada,190,"(51.03794, -112.67633)",Alberta,-30.9,-33.0,-28.0
+2021-02-09,Hussar,Village,Canada,190,"(51.03794, -112.67633)",Alberta,-30.1,-33.0,-28.0
+2021-02-10,Hussar,Village,Canada,190,"(51.03794, -112.67633)",Alberta,-30.4,-33.0,-28.0
+2021-02-11,Hussar,Village,Canada,190,"(51.03794, -112.67633)",Alberta,-30.8,-34.0,-28.0
+2021-02-12,Hussar,Village,Canada,190,"(51.03794, -112.67633)",Alberta,-23.3,-27.0,-22.0
+2021-02-07,Innisfree,Village,Canada,193,"(53.38083, -111.53123)",Alberta,-32.2,-36.0,-28.0
+2021-02-08,Innisfree,Village,Canada,193,"(53.38083, -111.53123)",Alberta,-32.1,-38.0,-28.0
+2021-02-09,Innisfree,Village,Canada,193,"(53.38083, -111.53123)",Alberta,-28.9,-31.0,-27.0
+2021-02-10,Innisfree,Village,Canada,193,"(53.38083, -111.53123)",Alberta,-29.5,-32.0,-28.0
+2021-02-11,Innisfree,Village,Canada,193,"(53.38083, -111.53123)",Alberta,-29.4,-35.0,-24.0
+2021-02-12,Innisfree,Village,Canada,193,"(53.38083, -111.53123)",Alberta,-22.8,-25.0,-21.0
+2021-02-07,Killam,Town,Canada,989,"(52.79096, -111.85936)",Alberta,-34.8,-41.0,-28.0
+2021-02-08,Killam,Town,Canada,989,"(52.79096, -111.85936)",Alberta,-32.3,-38.0,-27.0
+2021-02-09,Killam,Town,Canada,989,"(52.79096, -111.85936)",Alberta,-29.0,-32.0,-26.0
+2021-02-10,Killam,Town,Canada,989,"(52.79096, -111.85936)",Alberta,-29.5,-33.0,-27.0
+2021-02-11,Killam,Town,Canada,989,"(52.79096, -111.85936)",Alberta,-28.5,-33.0,-23.0
+2021-02-12,Killam,Town,Canada,989,"(52.79096, -111.85936)",Alberta,-21.8,-23.0,-20.0
+2021-02-07,Kitscoty,Village,Canada,925,"(53.34049, -110.33297)",Alberta,-32.0,-37.0,-28.0
+2021-02-08,Kitscoty,Village,Canada,925,"(53.34049, -110.33297)",Alberta,-30.0,-34.0,-27.0
+2021-02-09,Kitscoty,Village,Canada,925,"(53.34049, -110.33297)",Alberta,-28.4,-29.0,-27.0
+2021-02-10,Kitscoty,Village,Canada,925,"(53.34049, -110.33297)",Alberta,-29.7,-33.0,-28.0
+2021-02-11,Kitscoty,Village,Canada,925,"(53.34049, -110.33297)",Alberta,-31.1,-35.0,-25.0
+2021-02-12,Kitscoty,Village,Canada,925,"(53.34049, -110.33297)",Alberta,-23.8,-27.0,-22.0
+2021-02-07,Larkspur,Summer village,Canada,44,"(54.4415, -113.77095)",Alberta,-38.5,-45.0,-28.0
+2021-02-08,Larkspur,Summer village,Canada,44,"(54.4415, -113.77095)",Alberta,-34.8,-43.0,-25.0
+2021-02-09,Larkspur,Summer village,Canada,44,"(54.4415, -113.77095)",Alberta,-28.5,-33.0,-24.0
+2021-02-10,Larkspur,Summer village,Canada,44,"(54.4415, -113.77095)",Alberta,-27.6,-31.0,-25.0
+2021-02-11,Larkspur,Summer village,Canada,44,"(54.4415, -113.77095)",Alberta,-26.6,-31.0,-23.0
+2021-02-12,Larkspur,Summer village,Canada,44,"(54.4415, -113.77095)",Alberta,-21.1,-24.0,-19.0
+2021-02-07,Linden,Village,Canada,828,"(51.59595, -113.49755)",Alberta,-35.8,-41.0,-29.0
+2021-02-08,Linden,Village,Canada,828,"(51.59595, -113.49755)",Alberta,-32.9,-40.0,-26.0
+2021-02-09,Linden,Village,Canada,828,"(51.59595, -113.49755)",Alberta,-30.9,-35.0,-26.0
+2021-02-10,Linden,Village,Canada,828,"(51.59595, -113.49755)",Alberta,-30.7,-35.0,-27.0
+2021-02-11,Linden,Village,Canada,828,"(51.59595, -113.49755)",Alberta,-30.0,-35.0,-24.0
+2021-02-12,Linden,Village,Canada,828,"(51.59595, -113.49755)",Alberta,-21.2,-23.0,-19.0
+2021-02-07,Lloydminster ,City,Canada,19645,"(53.27811, -110.00672)",Alberta,-32.0,-37.0,-28.0
+2021-02-08,Lloydminster ,City,Canada,19645,"(53.27811, -110.00672)",Alberta,-30.0,-34.0,-27.0
+2021-02-09,Lloydminster ,City,Canada,19645,"(53.27811, -110.00672)",Alberta,-28.4,-29.0,-27.0
+2021-02-10,Lloydminster ,City,Canada,19645,"(53.27811, -110.00672)",Alberta,-29.7,-33.0,-28.0
+2021-02-11,Lloydminster ,City,Canada,19645,"(53.27811, -110.00672)",Alberta,-31.1,-35.0,-25.0
+2021-02-12,Lloydminster ,City,Canada,19645,"(53.27811, -110.00672)",Alberta,-23.8,-27.0,-22.0
+2021-02-07,Lomond,Village,Canada,166,"(50.35039, -112.63986)",Alberta,-26.2,-31.0,-23.0
+2021-02-08,Lomond,Village,Canada,166,"(50.35039, -112.63986)",Alberta,-28.1,-32.0,-23.0
+2021-02-09,Lomond,Village,Canada,166,"(50.35039, -112.63986)",Alberta,-28.8,-34.0,-23.0
+2021-02-10,Lomond,Village,Canada,166,"(50.35039, -112.63986)",Alberta,-28.0,-32.0,-25.0
+2021-02-11,Lomond,Village,Canada,166,"(50.35039, -112.63986)",Alberta,-29.8,-33.0,-25.0
+2021-02-12,Lomond,Village,Canada,166,"(50.35039, -112.63986)",Alberta,-22.7,-31.0,-19.0
+2021-02-07,Lougheed,Village,Canada,256,"(52.74376, -111.54542)",Alberta,-34.8,-41.0,-28.0
+2021-02-08,Lougheed,Village,Canada,256,"(52.74376, -111.54542)",Alberta,-32.3,-38.0,-27.0
+2021-02-09,Lougheed,Village,Canada,256,"(52.74376, -111.54542)",Alberta,-29.0,-32.0,-26.0
+2021-02-10,Lougheed,Village,Canada,256,"(52.74376, -111.54542)",Alberta,-29.5,-33.0,-27.0
+2021-02-11,Lougheed,Village,Canada,256,"(52.74376, -111.54542)",Alberta,-28.5,-33.0,-23.0
+2021-02-12,Lougheed,Village,Canada,256,"(52.74376, -111.54542)",Alberta,-21.8,-23.0,-20.0
+2021-02-07,Manning,Town,Canada,1183,"(56.92461, -117.62786)",Alberta,-35.3,-41.0,-28.0
+2021-02-08,Manning,Town,Canada,1183,"(56.92461, -117.62786)",Alberta,-35.5,-42.0,-30.0
+2021-02-09,Manning,Town,Canada,1183,"(56.92461, -117.62786)",Alberta,-29.8,-37.0,-24.0
+2021-02-10,Manning,Town,Canada,1183,"(56.92461, -117.62786)",Alberta,-29.7,-36.0,-27.0
+2021-02-11,Manning,Town,Canada,1183,"(56.92461, -117.62786)",Alberta,-27.5,-35.0,-19.0
+2021-02-12,Manning,Town,Canada,1183,"(56.92461, -117.62786)",Alberta,-23.9,-31.0,-19.0
+2021-02-07,Mannville,Village,Canada,828,"(53.34291, -111.17515)",Alberta,-33.5,-40.0,-27.0
+2021-02-08,Mannville,Village,Canada,828,"(53.34291, -111.17515)",Alberta,-30.9,-35.0,-27.0
+2021-02-09,Mannville,Village,Canada,828,"(53.34291, -111.17515)",Alberta,-28.0,-30.0,-26.0
+2021-02-10,Mannville,Village,Canada,828,"(53.34291, -111.17515)",Alberta,-29.3,-34.0,-27.0
+2021-02-11,Mannville,Village,Canada,828,"(53.34291, -111.17515)",Alberta,-29.5,-35.0,-24.0
+2021-02-12,Mannville,Village,Canada,828,"(53.34291, -111.17515)",Alberta,-22.6,-24.0,-21.0
+2021-02-07,Marwayne,Village,Canada,564,"(53.51898, -110.33221)",Alberta,-32.0,-37.0,-28.0
+2021-02-08,Marwayne,Village,Canada,564,"(53.51898, -110.33221)",Alberta,-30.0,-34.0,-27.0
+2021-02-09,Marwayne,Village,Canada,564,"(53.51898, -110.33221)",Alberta,-28.4,-29.0,-27.0
+2021-02-10,Marwayne,Village,Canada,564,"(53.51898, -110.33221)",Alberta,-29.7,-33.0,-28.0
+2021-02-11,Marwayne,Village,Canada,564,"(53.51898, -110.33221)",Alberta,-31.1,-35.0,-25.0
+2021-02-12,Marwayne,Village,Canada,564,"(53.51898, -110.33221)",Alberta,-23.8,-27.0,-22.0
+2021-02-07,Milk River,Town,Canada,827,"(49.14814, -112.0869)",Alberta,-24.3,-26.0,-22.0
+2021-02-08,Milk River,Town,Canada,827,"(49.14814, -112.0869)",Alberta,-26.0,-31.0,-23.0
+2021-02-09,Milk River,Town,Canada,827,"(49.14814, -112.0869)",Alberta,-30.7,-36.0,-24.0
+2021-02-10,Milk River,Town,Canada,827,"(49.14814, -112.0869)",Alberta,-30.3,-35.0,-25.0
+2021-02-11,Milk River,Town,Canada,827,"(49.14814, -112.0869)",Alberta,-30.7,-36.0,-26.0
+2021-02-12,Milk River,Town,Canada,827,"(49.14814, -112.0869)",Alberta,-27.3,-36.0,-20.0
+2021-02-07,Morrin,Village,Canada,240,"(51.64896, -112.75614)",Alberta,-33.7,-39.7,-26.0
+2021-02-08,Morrin,Village,Canada,240,"(51.64896, -112.75614)",Alberta,-32.5,-39.1,-25.1
+2021-02-09,Morrin,Village,Canada,240,"(51.64896, -112.75614)",Alberta,-30.9,-35.9,-25.1
+2021-02-10,Morrin,Village,Canada,240,"(51.64896, -112.75614)",Alberta,-31.0,-35.9,-26.1
+2021-02-11,Morrin,Village,Canada,240,"(51.64896, -112.75614)",Alberta,-30.5,-36.7,-24.4
+2021-02-12,Morrin,Village,Canada,240,"(51.64896, -112.75614)",Alberta,-21.0,-25.1,-18.6
+2021-02-07,Mundare,Town,Canada,852,"(53.59315, -112.34473)",Alberta,-34.3,-40.9,-26.5
+2021-02-08,Mundare,Town,Canada,852,"(53.59315, -112.34473)",Alberta,-31.3,-37.9,-27.0
+2021-02-09,Mundare,Town,Canada,852,"(53.59315, -112.34473)",Alberta,-28.4,-30.5,-26.5
+2021-02-10,Mundare,Town,Canada,852,"(53.59315, -112.34473)",Alberta,-28.6,-30.5,-27.0
+2021-02-11,Mundare,Town,Canada,852,"(53.59315, -112.34473)",Alberta,-27.6,-33.0,-23.0
+2021-02-12,Mundare,Town,Canada,852,"(53.59315, -112.34473)",Alberta,-22.1,-24.0,-20.5
+2021-02-07,Munson,Village,Canada,192,"(51.56303, -112.72393)",Alberta,-30.8,-38.0,-22.0
+2021-02-08,Munson,Village,Canada,192,"(51.56303, -112.72393)",Alberta,-32.0,-38.0,-24.0
+2021-02-09,Munson,Village,Canada,192,"(51.56303, -112.72393)",Alberta,-30.8,-37.0,-24.0
+2021-02-10,Munson,Village,Canada,192,"(51.56303, -112.72393)",Alberta,-31.5,-37.0,-25.0
+2021-02-11,Munson,Village,Canada,192,"(51.56303, -112.72393)",Alberta,-31.2,-39.0,-25.0
+2021-02-12,Munson,Village,Canada,192,"(51.56303, -112.72393)",Alberta,-20.8,-28.0,-18.0
+2021-02-07,Myrnam,Village,Canada,339,"(53.6619, -111.23083)",Alberta,-32.2,-36.0,-28.0
+2021-02-08,Myrnam,Village,Canada,339,"(53.6619, -111.23083)",Alberta,-32.1,-38.0,-28.0
+2021-02-09,Myrnam,Village,Canada,339,"(53.6619, -111.23083)",Alberta,-28.9,-31.0,-27.0
+2021-02-10,Myrnam,Village,Canada,339,"(53.6619, -111.23083)",Alberta,-29.5,-32.0,-28.0
+2021-02-11,Myrnam,Village,Canada,339,"(53.6619, -111.23083)",Alberta,-29.4,-35.0,-24.0
+2021-02-12,Myrnam,Village,Canada,339,"(53.6619, -111.23083)",Alberta,-22.8,-25.0,-21.0
+2021-02-07,Nampa,Village,Canada,364,"(56.0388, -117.13431)",Alberta,-35.7,-43.0,-29.0
+2021-02-08,Nampa,Village,Canada,364,"(56.0388, -117.13431)",Alberta,-32.0,-37.0,-28.0
+2021-02-09,Nampa,Village,Canada,364,"(56.0388, -117.13431)",Alberta,-31.5,-37.0,-27.0
+2021-02-10,Nampa,Village,Canada,364,"(56.0388, -117.13431)",Alberta,-29.0,-34.0,-26.0
+2021-02-11,Nampa,Village,Canada,364,"(56.0388, -117.13431)",Alberta,-27.8,-34.0,-22.0
+2021-02-12,Nampa,Village,Canada,364,"(56.0388, -117.13431)",Alberta,-23.7,-31.0,-19.0
+2021-02-07,Nanton,Town,Canada,2181,"(50.34982, -113.7739)",Alberta,-25.2,-30.0,-22.0
+2021-02-08,Nanton,Town,Canada,2181,"(50.34982, -113.7739)",Alberta,-27.1,-35.0,-23.0
+2021-02-09,Nanton,Town,Canada,2181,"(50.34982, -113.7739)",Alberta,-28.9,-34.0,-23.0
+2021-02-10,Nanton,Town,Canada,2181,"(50.34982, -113.7739)",Alberta,-28.7,-33.0,-26.0
+2021-02-11,Nanton,Town,Canada,2181,"(50.34982, -113.7739)",Alberta,-31.2,-36.0,-25.0
+2021-02-12,Nanton,Town,Canada,2181,"(50.34982, -113.7739)",Alberta,-22.7,-33.0,-18.0
+2021-02-07,Nobleford,Town,Canada,1278,"(49.87318, -113.0514)",Alberta,-25.7,-29.0,-23.0
+2021-02-08,Nobleford,Town,Canada,1278,"(49.87318, -113.0514)",Alberta,-26.3,-31.0,-22.0
+2021-02-09,Nobleford,Town,Canada,1278,"(49.87318, -113.0514)",Alberta,-27.7,-31.0,-24.0
+2021-02-10,Nobleford,Town,Canada,1278,"(49.87318, -113.0514)",Alberta,-27.7,-33.0,-25.0
+2021-02-11,Nobleford,Town,Canada,1278,"(49.87318, -113.0514)",Alberta,-29.4,-33.0,-26.0
+2021-02-12,Nobleford,Town,Canada,1278,"(49.87318, -113.0514)",Alberta,-22.9,-31.0,-19.0
+2021-02-07,Olds,Town,Canada,9184,"(51.79184, -114.1105)",Alberta,-30.8,-33.0,-28.0
+2021-02-08,Olds,Town,Canada,9184,"(51.79184, -114.1105)",Alberta,-29.8,-35.0,-26.0
+2021-02-09,Olds,Town,Canada,9184,"(51.79184, -114.1105)",Alberta,-29.6,-34.0,-26.0
+2021-02-10,Olds,Town,Canada,9184,"(51.79184, -114.1105)",Alberta,-29.8,-33.0,-28.0
+2021-02-11,Olds,Town,Canada,9184,"(51.79184, -114.1105)",Alberta,-28.8,-34.0,-24.0
+2021-02-12,Olds,Town,Canada,9184,"(51.79184, -114.1105)",Alberta,-21.3,-24.0,-19.0
+2021-02-07,Oyen,Town,Canada,1001,"(51.35361, -110.48432)",Alberta,-32.2,-35.0,-28.0
+2021-02-08,Oyen,Town,Canada,1001,"(51.35361, -110.48432)",Alberta,-31.6,-36.0,-28.0
+2021-02-09,Oyen,Town,Canada,1001,"(51.35361, -110.48432)",Alberta,-29.9,-33.0,-27.0
+2021-02-10,Oyen,Town,Canada,1001,"(51.35361, -110.48432)",Alberta,-31.0,-34.0,-28.0
+2021-02-11,Oyen,Town,Canada,1001,"(51.35361, -110.48432)",Alberta,-32.1,-36.0,-28.0
+2021-02-12,Oyen,Town,Canada,1001,"(51.35361, -110.48432)",Alberta,-24.7,-30.0,-22.0
+2021-02-07,Peace River,Town,Canada,6842,"(56.23297, -117.29043)",Alberta,-35.7,-43.0,-29.0
+2021-02-08,Peace River,Town,Canada,6842,"(56.23297, -117.29043)",Alberta,-32.0,-37.0,-28.0
+2021-02-09,Peace River,Town,Canada,6842,"(56.23297, -117.29043)",Alberta,-31.5,-37.0,-27.0
+2021-02-10,Peace River,Town,Canada,6842,"(56.23297, -117.29043)",Alberta,-29.0,-34.0,-26.0
+2021-02-11,Peace River,Town,Canada,6842,"(56.23297, -117.29043)",Alberta,-27.8,-34.0,-22.0
+2021-02-12,Peace River,Town,Canada,6842,"(56.23297, -117.29043)",Alberta,-23.7,-31.0,-19.0
+2021-02-07,Pincher Creek,Town,Canada,3642,"(49.48564, -113.94911)",Alberta,-23.0,-27.0,-19.0
+2021-02-08,Pincher Creek,Town,Canada,3642,"(49.48564, -113.94911)",Alberta,-26.4,-32.0,-23.0
+2021-02-09,Pincher Creek,Town,Canada,3642,"(49.48564, -113.94911)",Alberta,-28.4,-32.0,-25.0
+2021-02-10,Pincher Creek,Town,Canada,3642,"(49.48564, -113.94911)",Alberta,-29.3,-34.0,-23.0
+2021-02-11,Pincher Creek,Town,Canada,3642,"(49.48564, -113.94911)",Alberta,-30.8,-36.0,-25.0
+2021-02-12,Pincher Creek,Town,Canada,3642,"(49.48564, -113.94911)",Alberta,-24.7,-34.0,-16.0
+2021-02-07,Ponoka,Town,Canada,7229,"(52.67527, -113.58076)",Alberta,-28.9,-35.0,-24.0
+2021-02-08,Ponoka,Town,Canada,7229,"(52.67527, -113.58076)",Alberta,-30.0,-33.0,-27.0
+2021-02-09,Ponoka,Town,Canada,7229,"(52.67527, -113.58076)",Alberta,-30.3,-34.0,-26.0
+2021-02-10,Ponoka,Town,Canada,7229,"(52.67527, -113.58076)",Alberta,-30.5,-32.0,-28.0
+2021-02-11,Ponoka,Town,Canada,7229,"(52.67527, -113.58076)",Alberta,-29.3,-33.0,-25.0
+2021-02-12,Ponoka,Town,Canada,7229,"(52.67527, -113.58076)",Alberta,-22.5,-25.0,-20.0
+2021-02-07,Provost,Town,Canada,1998,"(52.36117, -110.2683)",Alberta,-31.1,-35.0,-26.0
+2021-02-08,Provost,Town,Canada,1998,"(52.36117, -110.2683)",Alberta,-30.4,-34.0,-27.0
+2021-02-09,Provost,Town,Canada,1998,"(52.36117, -110.2683)",Alberta,-28.3,-30.0,-26.0
+2021-02-10,Provost,Town,Canada,1998,"(52.36117, -110.2683)",Alberta,-30.1,-34.0,-27.0
+2021-02-11,Provost,Town,Canada,1998,"(52.36117, -110.2683)",Alberta,-31.5,-36.0,-25.0
+2021-02-12,Provost,Town,Canada,1998,"(52.36117, -110.2683)",Alberta,-23.7,-26.0,-22.0
+2021-02-07,Rochon Sands,Summer village,Canada,86,"(52.45791, -112.8835)",Alberta,-31.4,-35.0,-25.0
+2021-02-08,Rochon Sands,Summer village,Canada,86,"(52.45791, -112.8835)",Alberta,-32.0,-37.0,-27.0
+2021-02-09,Rochon Sands,Summer village,Canada,86,"(52.45791, -112.8835)",Alberta,-30.1,-34.0,-26.0
+2021-02-10,Rochon Sands,Summer village,Canada,86,"(52.45791, -112.8835)",Alberta,-30.3,-34.0,-28.0
+2021-02-11,Rochon Sands,Summer village,Canada,86,"(52.45791, -112.8835)",Alberta,-28.8,-34.0,-24.0
+2021-02-12,Rochon Sands,Summer village,Canada,86,"(52.45791, -112.8835)",Alberta,-22.0,-24.0,-20.0
+2021-02-07,Rockyford,Village,Canada,316,"(51.23361, -113.14449)",Alberta,-28.9,-31.0,-26.0
+2021-02-08,Rockyford,Village,Canada,316,"(51.23361, -113.14449)",Alberta,-29.6,-32.0,-25.0
+2021-02-09,Rockyford,Village,Canada,316,"(51.23361, -113.14449)",Alberta,-29.5,-33.0,-26.0
+2021-02-10,Rockyford,Village,Canada,316,"(51.23361, -113.14449)",Alberta,-29.6,-33.0,-28.0
+2021-02-11,Rockyford,Village,Canada,316,"(51.23361, -113.14449)",Alberta,-30.0,-33.0,-27.0
+2021-02-12,Rockyford,Village,Canada,316,"(51.23361, -113.14449)",Alberta,-21.9,-26.0,-19.0
+2021-02-07,Rosemary,Village,Canada,396,"(50.7557, -112.08197)",Alberta,-29.5,-35.4,-23.5
+2021-02-08,Rosemary,Village,Canada,396,"(50.7557, -112.08197)",Alberta,-30.7,-35.0,-25.0
+2021-02-09,Rosemary,Village,Canada,396,"(50.7557, -112.08197)",Alberta,-29.3,-33.0,-24.5
+2021-02-10,Rosemary,Village,Canada,396,"(50.7557, -112.08197)",Alberta,-29.4,-34.0,-26.0
+2021-02-11,Rosemary,Village,Canada,396,"(50.7557, -112.08197)",Alberta,-30.5,-34.4,-26.0
+2021-02-12,Rosemary,Village,Canada,396,"(50.7557, -112.08197)",Alberta,-21.8,-29.0,-20.0
+2021-02-07,Rycroft,Village,Canada,612,"(55.75929, -118.71608)",Alberta,-35.5,-41.0,-28.0
+2021-02-08,Rycroft,Village,Canada,612,"(55.75929, -118.71608)",Alberta,-31.5,-35.0,-29.0
+2021-02-09,Rycroft,Village,Canada,612,"(55.75929, -118.71608)",Alberta,-32.5,-38.0,-28.0
+2021-02-10,Rycroft,Village,Canada,612,"(55.75929, -118.71608)",Alberta,-29.2,-33.0,-25.0
+2021-02-11,Rycroft,Village,Canada,612,"(55.75929, -118.71608)",Alberta,-29.1,-35.0,-22.0
+2021-02-12,Rycroft,Village,Canada,612,"(55.75929, -118.71608)",Alberta,-23.3,-30.0,-19.0
+2021-02-07,Ryley,Village,Canada,483,"(53.28985, -112.42781)",Alberta,-32.3,-38.0,-25.0
+2021-02-08,Ryley,Village,Canada,483,"(53.28985, -112.42781)",Alberta,-30.6,-35.0,-27.0
+2021-02-09,Ryley,Village,Canada,483,"(53.28985, -112.42781)",Alberta,-28.6,-31.0,-27.0
+2021-02-10,Ryley,Village,Canada,483,"(53.28985, -112.42781)",Alberta,-28.6,-30.0,-27.0
+2021-02-11,Ryley,Village,Canada,483,"(53.28985, -112.42781)",Alberta,-27.7,-33.0,-23.0
+2021-02-12,Ryley,Village,Canada,483,"(53.28985, -112.42781)",Alberta,-22.2,-24.0,-21.0
+2021-02-07,Sedgewick,Town,Canada,811,"(52.77626, -111.69707)",Alberta,-34.8,-41.0,-28.0
+2021-02-08,Sedgewick,Town,Canada,811,"(52.77626, -111.69707)",Alberta,-32.3,-38.0,-27.0
+2021-02-09,Sedgewick,Town,Canada,811,"(52.77626, -111.69707)",Alberta,-29.0,-32.0,-26.0
+2021-02-10,Sedgewick,Town,Canada,811,"(52.77626, -111.69707)",Alberta,-29.5,-33.0,-27.0
+2021-02-11,Sedgewick,Town,Canada,811,"(52.77626, -111.69707)",Alberta,-28.5,-33.0,-23.0
+2021-02-12,Sedgewick,Town,Canada,811,"(52.77626, -111.69707)",Alberta,-21.8,-23.0,-20.0
+2021-02-07,Sexsmith,Town,Canada,2620,"(55.34852, -118.78231)",Alberta,-38.7,-44.0,-32.0
+2021-02-08,Sexsmith,Town,Canada,2620,"(55.34852, -118.78231)",Alberta,-32.8,-38.0,-29.0
+2021-02-09,Sexsmith,Town,Canada,2620,"(55.34852, -118.78231)",Alberta,-34.1,-38.0,-30.0
+2021-02-10,Sexsmith,Town,Canada,2620,"(55.34852, -118.78231)",Alberta,-30.2,-36.0,-26.0
+2021-02-11,Sexsmith,Town,Canada,2620,"(55.34852, -118.78231)",Alberta,-30.0,-37.0,-23.0
+2021-02-12,Sexsmith,Town,Canada,2620,"(55.34852, -118.78231)",Alberta,-21.5,-29.0,-17.0
+2021-02-07,Slave Lake,Town,Canada,6651,"(55.2867, -114.77155)",Alberta,-35.6,-40.0,-24.0
+2021-02-08,Slave Lake,Town,Canada,6651,"(55.2867, -114.77155)",Alberta,-30.1,-39.0,-26.0
+2021-02-09,Slave Lake,Town,Canada,6651,"(55.2867, -114.77155)",Alberta,-28.3,-30.0,-26.0
+2021-02-10,Slave Lake,Town,Canada,6651,"(55.2867, -114.77155)",Alberta,-27.4,-29.0,-25.0
+2021-02-11,Slave Lake,Town,Canada,6651,"(55.2867, -114.77155)",Alberta,-26.4,-30.0,-24.0
+2021-02-12,Slave Lake,Town,Canada,6651,"(55.2867, -114.77155)",Alberta,-21.6,-26.0,-19.0
+2021-02-07,Smoky Lake,Town,Canada,964,"(54.1105, -112.47574)",Alberta,-33.9,-40.4,-26.0
+2021-02-08,Smoky Lake,Town,Canada,964,"(54.1105, -112.47574)",Alberta,-31.0,-36.9,-26.0
+2021-02-09,Smoky Lake,Town,Canada,964,"(54.1105, -112.47574)",Alberta,-28.2,-30.0,-25.0
+2021-02-10,Smoky Lake,Town,Canada,964,"(54.1105, -112.47574)",Alberta,-28.5,-30.5,-26.5
+2021-02-11,Smoky Lake,Town,Canada,964,"(54.1105, -112.47574)",Alberta,-28.1,-33.5,-24.0
+2021-02-12,Smoky Lake,Town,Canada,964,"(54.1105, -112.47574)",Alberta,-21.8,-24.5,-20.0
+2021-02-07,St. Paul[o],Town,Canada,5827,"(53.99139, -111.28163)",Alberta,-35.5,-43.0,-28.0
+2021-02-08,St. Paul[o],Town,Canada,5827,"(53.99139, -111.28163)",Alberta,-32.1,-40.0,-26.0
+2021-02-09,St. Paul[o],Town,Canada,5827,"(53.99139, -111.28163)",Alberta,-28.5,-30.0,-26.0
+2021-02-10,St. Paul[o],Town,Canada,5827,"(53.99139, -111.28163)",Alberta,-29.6,-33.0,-28.0
+2021-02-11,St. Paul[o],Town,Canada,5827,"(53.99139, -111.28163)",Alberta,-30.3,-37.0,-25.0
+2021-02-12,St. Paul[o],Town,Canada,5827,"(53.99139, -111.28163)",Alberta,-22.8,-25.0,-21.0
+2021-02-07,Standard,Village,Canada,353,"(51.11004, -112.98179)",Alberta,-29.6,-32.0,-26.5
+2021-02-08,Standard,Village,Canada,353,"(51.11004, -112.98179)",Alberta,-30.3,-32.5,-26.5
+2021-02-09,Standard,Village,Canada,353,"(51.11004, -112.98179)",Alberta,-29.8,-33.0,-27.0
+2021-02-10,Standard,Village,Canada,353,"(51.11004, -112.98179)",Alberta,-30.0,-33.0,-28.0
+2021-02-11,Standard,Village,Canada,353,"(51.11004, -112.98179)",Alberta,-30.4,-33.5,-27.5
+2021-02-12,Standard,Village,Canada,353,"(51.11004, -112.98179)",Alberta,-22.6,-26.5,-20.5
+2021-02-07,Stavely,Town,Canada,541,"(50.16486, -113.64486)",Alberta,-24.5,-29.0,-21.0
+2021-02-08,Stavely,Town,Canada,541,"(50.16486, -113.64486)",Alberta,-26.4,-35.5,-22.5
+2021-02-09,Stavely,Town,Canada,541,"(50.16486, -113.64486)",Alberta,-28.4,-34.5,-22.5
+2021-02-10,Stavely,Town,Canada,541,"(50.16486, -113.64486)",Alberta,-28.2,-33.0,-24.0
+2021-02-11,Stavely,Town,Canada,541,"(50.16486, -113.64486)",Alberta,-30.2,-35.5,-24.0
+2021-02-12,Stavely,Town,Canada,541,"(50.16486, -113.64486)",Alberta,-22.9,-33.5,-17.0
+2021-02-07,Stettler,Town,Canada,5952,"(52.32367, -112.7051)",Alberta,-31.4,-35.0,-25.0
+2021-02-08,Stettler,Town,Canada,5952,"(52.32367, -112.7051)",Alberta,-32.0,-37.0,-27.0
+2021-02-09,Stettler,Town,Canada,5952,"(52.32367, -112.7051)",Alberta,-30.1,-34.0,-26.0
+2021-02-10,Stettler,Town,Canada,5952,"(52.32367, -112.7051)",Alberta,-30.3,-34.0,-28.0
+2021-02-11,Stettler,Town,Canada,5952,"(52.32367, -112.7051)",Alberta,-28.8,-34.0,-24.0
+2021-02-12,Stettler,Town,Canada,5952,"(52.32367, -112.7051)",Alberta,-22.0,-24.0,-20.0
+2021-02-07,Strathmore,Town,Canada,13756,"(51.04125, -113.40029)",Alberta,-28.9,-31.0,-26.0
+2021-02-08,Strathmore,Town,Canada,13756,"(51.04125, -113.40029)",Alberta,-29.6,-32.0,-25.0
+2021-02-09,Strathmore,Town,Canada,13756,"(51.04125, -113.40029)",Alberta,-29.5,-33.0,-26.0
+2021-02-10,Strathmore,Town,Canada,13756,"(51.04125, -113.40029)",Alberta,-29.6,-33.0,-28.0
+2021-02-11,Strathmore,Town,Canada,13756,"(51.04125, -113.40029)",Alberta,-30.0,-33.0,-27.0
+2021-02-12,Strathmore,Town,Canada,13756,"(51.04125, -113.40029)",Alberta,-21.9,-26.0,-19.0
+2021-02-07,Sundre,Town,Canada,2729,"(51.79719, -114.64116)",Alberta,-30.8,-40.0,-22.0
+2021-02-08,Sundre,Town,Canada,2729,"(51.79719, -114.64116)",Alberta,-28.4,-34.0,-23.0
+2021-02-09,Sundre,Town,Canada,2729,"(51.79719, -114.64116)",Alberta,-31.6,-37.0,-24.0
+2021-02-10,Sundre,Town,Canada,2729,"(51.79719, -114.64116)",Alberta,-32.1,-37.0,-26.0
+2021-02-11,Sundre,Town,Canada,2729,"(51.79719, -114.64116)",Alberta,-30.5,-41.0,-23.0
+2021-02-12,Sundre,Town,Canada,2729,"(51.79719, -114.64116)",Alberta,-20.3,-23.0,-17.0
+2021-02-07,Taber,Town,Canada,8428,"(49.78786, -112.12714)",Alberta,-25.7,-29.0,-22.5
+2021-02-08,Taber,Town,Canada,8428,"(49.78786, -112.12714)",Alberta,-28.0,-36.5,-23.0
+2021-02-09,Taber,Town,Canada,8428,"(49.78786, -112.12714)",Alberta,-30.1,-36.5,-24.0
+2021-02-10,Taber,Town,Canada,8428,"(49.78786, -112.12714)",Alberta,-29.2,-35.5,-25.0
+2021-02-11,Taber,Town,Canada,8428,"(49.78786, -112.12714)",Alberta,-30.6,-35.0,-25.5
+2021-02-12,Taber,Town,Canada,8428,"(49.78786, -112.12714)",Alberta,-23.8,-32.0,-19.0
+2021-02-07,Three Hills,Town,Canada,3212,"(51.70714, -113.26555)",Alberta,-35.8,-41.0,-29.0
+2021-02-08,Three Hills,Town,Canada,3212,"(51.70714, -113.26555)",Alberta,-32.9,-40.0,-26.0
+2021-02-09,Three Hills,Town,Canada,3212,"(51.70714, -113.26555)",Alberta,-30.9,-35.0,-26.0
+2021-02-10,Three Hills,Town,Canada,3212,"(51.70714, -113.26555)",Alberta,-30.7,-35.0,-27.0
+2021-02-11,Three Hills,Town,Canada,3212,"(51.70714, -113.26555)",Alberta,-30.0,-35.0,-24.0
+2021-02-12,Three Hills,Town,Canada,3212,"(51.70714, -113.26555)",Alberta,-21.2,-23.0,-19.0
+2021-02-07,Tofield,Town,Canada,2081,"(53.36988, -112.66558)",Alberta,-32.3,-38.0,-25.0
+2021-02-08,Tofield,Town,Canada,2081,"(53.36988, -112.66558)",Alberta,-30.6,-35.0,-27.0
+2021-02-09,Tofield,Town,Canada,2081,"(53.36988, -112.66558)",Alberta,-28.6,-31.0,-27.0
+2021-02-10,Tofield,Town,Canada,2081,"(53.36988, -112.66558)",Alberta,-28.6,-30.0,-27.0
+2021-02-11,Tofield,Town,Canada,2081,"(53.36988, -112.66558)",Alberta,-27.7,-33.0,-23.0
+2021-02-12,Tofield,Town,Canada,2081,"(53.36988, -112.66558)",Alberta,-22.2,-24.0,-21.0
+2021-02-07,Trochu,Town,Canada,1058,"(51.82371, -113.23767)",Alberta,-35.8,-41.0,-29.0
+2021-02-08,Trochu,Town,Canada,1058,"(51.82371, -113.23767)",Alberta,-32.9,-40.0,-26.0
+2021-02-09,Trochu,Town,Canada,1058,"(51.82371, -113.23767)",Alberta,-30.9,-35.0,-26.0
+2021-02-10,Trochu,Town,Canada,1058,"(51.82371, -113.23767)",Alberta,-30.7,-35.0,-27.0
+2021-02-11,Trochu,Town,Canada,1058,"(51.82371, -113.23767)",Alberta,-30.0,-35.0,-24.0
+2021-02-12,Trochu,Town,Canada,1058,"(51.82371, -113.23767)",Alberta,-21.2,-23.0,-19.0
+2021-02-07,Two Hills,Town,Canada,1352,"(53.71549, -111.74182)",Alberta,-34.3,-39.9,-28.0
+2021-02-08,Two Hills,Town,Canada,1352,"(53.71549, -111.74182)",Alberta,-32.1,-39.5,-27.5
+2021-02-09,Two Hills,Town,Canada,1352,"(53.71549, -111.74182)",Alberta,-28.5,-30.5,-26.5
+2021-02-10,Two Hills,Town,Canada,1352,"(53.71549, -111.74182)",Alberta,-29.0,-31.5,-27.5
+2021-02-11,Two Hills,Town,Canada,1352,"(53.71549, -111.74182)",Alberta,-28.5,-34.0,-23.5
+2021-02-12,Two Hills,Town,Canada,1352,"(53.71549, -111.74182)",Alberta,-22.4,-24.5,-20.5
+2021-02-07,Valleyview,Town,Canada,1863,"(55.06844, -117.27239)",Alberta,-34.3,-42.0,-26.0
+2021-02-08,Valleyview,Town,Canada,1863,"(55.06844, -117.27239)",Alberta,-32.3,-36.0,-27.0
+2021-02-09,Valleyview,Town,Canada,1863,"(55.06844, -117.27239)",Alberta,-33.7,-39.0,-30.0
+2021-02-10,Valleyview,Town,Canada,1863,"(55.06844, -117.27239)",Alberta,-30.3,-33.0,-26.0
+2021-02-11,Valleyview,Town,Canada,1863,"(55.06844, -117.27239)",Alberta,-30.8,-37.0,-25.0
+2021-02-12,Valleyview,Town,Canada,1863,"(55.06844, -117.27239)",Alberta,-21.5,-25.0,-16.0
+2021-02-07,Vauxhall,Town,Canada,1222,"(50.07088, -112.09734)",Alberta,-25.9,-29.7,-22.7
+2021-02-08,Vauxhall,Town,Canada,1222,"(50.07088, -112.09734)",Alberta,-28.0,-35.0,-23.0
+2021-02-09,Vauxhall,Town,Canada,1222,"(50.07088, -112.09734)",Alberta,-29.7,-35.7,-23.7
+2021-02-10,Vauxhall,Town,Canada,1222,"(50.07088, -112.09734)",Alberta,-28.8,-34.4,-25.0
+2021-02-11,Vauxhall,Town,Canada,1222,"(50.07088, -112.09734)",Alberta,-30.3,-34.3,-25.3
+2021-02-12,Vauxhall,Town,Canada,1222,"(50.07088, -112.09734)",Alberta,-23.5,-31.7,-19.0
+2021-02-07,Vegreville,Town,Canada,5708,"(53.49529, -112.05415)",Alberta,-33.6,-39.2,-27.0
+2021-02-08,Vegreville,Town,Canada,5708,"(53.49529, -112.05415)",Alberta,-31.6,-37.9,-27.3
+2021-02-09,Vegreville,Town,Canada,5708,"(53.49529, -112.05415)",Alberta,-28.5,-30.7,-26.7
+2021-02-10,Vegreville,Town,Canada,5708,"(53.49529, -112.05415)",Alberta,-28.9,-31.0,-27.3
+2021-02-11,Vegreville,Town,Canada,5708,"(53.49529, -112.05415)",Alberta,-28.2,-33.7,-23.3
+2021-02-12,Vegreville,Town,Canada,5708,"(53.49529, -112.05415)",Alberta,-22.3,-24.3,-20.7
+2021-02-07,Vermilion,Town,Canada,4084,"(53.35398, -110.8571)",Alberta,-33.5,-40.0,-27.0
+2021-02-08,Vermilion,Town,Canada,4084,"(53.35398, -110.8571)",Alberta,-30.9,-35.0,-27.0
+2021-02-09,Vermilion,Town,Canada,4084,"(53.35398, -110.8571)",Alberta,-28.0,-30.0,-26.0
+2021-02-10,Vermilion,Town,Canada,4084,"(53.35398, -110.8571)",Alberta,-29.3,-34.0,-27.0
+2021-02-11,Vermilion,Town,Canada,4084,"(53.35398, -110.8571)",Alberta,-29.5,-35.0,-24.0
+2021-02-12,Vermilion,Town,Canada,4084,"(53.35398, -110.8571)",Alberta,-22.6,-24.0,-21.0
+2021-02-07,Veteran,Village,Canada,207,"(52.00415, -111.12311)",Alberta,-32.1,-37.0,-28.0
+2021-02-08,Veteran,Village,Canada,207,"(52.00415, -111.12311)",Alberta,-30.6,-34.0,-28.0
+2021-02-09,Veteran,Village,Canada,207,"(52.00415, -111.12311)",Alberta,-28.8,-31.0,-26.0
+2021-02-10,Veteran,Village,Canada,207,"(52.00415, -111.12311)",Alberta,-30.0,-33.0,-28.0
+2021-02-11,Veteran,Village,Canada,207,"(52.00415, -111.12311)",Alberta,-30.9,-35.0,-26.0
+2021-02-12,Veteran,Village,Canada,207,"(52.00415, -111.12311)",Alberta,-23.3,-25.0,-22.0
+2021-02-07,Viking,Town,Canada,1083,"(53.0951, -111.78385)",Alberta,-34.8,-41.0,-28.0
+2021-02-08,Viking,Town,Canada,1083,"(53.0951, -111.78385)",Alberta,-32.3,-38.0,-27.0
+2021-02-09,Viking,Town,Canada,1083,"(53.0951, -111.78385)",Alberta,-29.0,-32.0,-26.0
+2021-02-10,Viking,Town,Canada,1083,"(53.0951, -111.78385)",Alberta,-29.5,-33.0,-27.0
+2021-02-11,Viking,Town,Canada,1083,"(53.0951, -111.78385)",Alberta,-28.5,-33.0,-23.0
+2021-02-12,Viking,Town,Canada,1083,"(53.0951, -111.78385)",Alberta,-21.8,-23.0,-20.0
+2021-02-07,Vilna,Village,Canada,290,"(54.11403, -111.91909)",Alberta,-36.6,-43.0,-27.0
+2021-02-08,Vilna,Village,Canada,290,"(54.11403, -111.91909)",Alberta,-31.9,-39.0,-26.0
+2021-02-09,Vilna,Village,Canada,290,"(54.11403, -111.91909)",Alberta,,,
+2021-02-10,Vilna,Village,Canada,290,"(54.11403, -111.91909)",Alberta,-28.0,-30.0,-26.0
+2021-02-11,Vilna,Village,Canada,290,"(54.11403, -111.91909)",Alberta,-27.4,-33.0,-23.0
+2021-02-12,Vilna,Village,Canada,290,"(54.11403, -111.91909)",Alberta,-21.5,-24.0,-20.0
+2021-02-07,Vulcan,Town,Canada,1917,"(50.39734, -113.25818)",Alberta,-25.2,-30.0,-22.0
+2021-02-08,Vulcan,Town,Canada,1917,"(50.39734, -113.25818)",Alberta,-27.1,-35.0,-23.0
+2021-02-09,Vulcan,Town,Canada,1917,"(50.39734, -113.25818)",Alberta,-28.9,-34.0,-23.0
+2021-02-10,Vulcan,Town,Canada,1917,"(50.39734, -113.25818)",Alberta,-28.7,-33.0,-26.0
+2021-02-11,Vulcan,Town,Canada,1917,"(50.39734, -113.25818)",Alberta,-31.2,-36.0,-25.0
+2021-02-12,Vulcan,Town,Canada,1917,"(50.39734, -113.25818)",Alberta,-22.7,-33.0,-18.0
+2021-02-07,Waiparous,Summer village,Canada,49,"(51.28319, -114.83881)",Alberta,-26.0,-34.0,-21.0
+2021-02-08,Waiparous,Summer village,Canada,49,"(51.28319, -114.83881)",Alberta,-25.8,-32.0,-22.0
+2021-02-09,Waiparous,Summer village,Canada,49,"(51.28319, -114.83881)",Alberta,-30.5,-40.0,-22.0
+2021-02-10,Waiparous,Summer village,Canada,49,"(51.28319, -114.83881)",Alberta,-28.5,-32.0,-24.0
+2021-02-11,Waiparous,Summer village,Canada,49,"(51.28319, -114.83881)",Alberta,-32.6,-41.0,-22.0
+2021-02-12,Waiparous,Summer village,Canada,49,"(51.28319, -114.83881)",Alberta,-22.8,-34.0,-15.0
+2021-02-07,Warner,Village,Canada,373,"(49.28832, -112.20714)",Alberta,-25.2,-27.9,-22.9
+2021-02-08,Warner,Village,Canada,373,"(49.28832, -112.20714)",Alberta,-26.9,-32.9,-23.0
+2021-02-09,Warner,Village,Canada,373,"(49.28832, -112.20714)",Alberta,-30.4,-35.1,-24.9
+2021-02-10,Warner,Village,Canada,373,"(49.28832, -112.20714)",Alberta,-30.1,-35.0,-25.5
+2021-02-11,Warner,Village,Canada,373,"(49.28832, -112.20714)",Alberta,-30.9,-35.5,-26.5
+2021-02-12,Warner,Village,Canada,373,"(49.28832, -112.20714)",Alberta,-26.1,-35.5,-20.0
+2021-02-07,Waskatenau,Village,Canada,186,"(54.09546, -112.78809)",Alberta,-33.9,-41.0,-26.0
+2021-02-08,Waskatenau,Village,Canada,186,"(54.09546, -112.78809)",Alberta,-30.2,-35.0,-25.5
+2021-02-09,Waskatenau,Village,Canada,186,"(54.09546, -112.78809)",Alberta,-28.3,-30.5,-25.0
+2021-02-10,Waskatenau,Village,Canada,186,"(54.09546, -112.78809)",Alberta,-28.8,-30.5,-27.0
+2021-02-11,Waskatenau,Village,Canada,186,"(54.09546, -112.78809)",Alberta,-28.3,-34.0,-24.5
+2021-02-12,Waskatenau,Village,Canada,186,"(54.09546, -112.78809)",Alberta,-22.0,-24.5,-19.5
+2021-02-07,Wembley,Town,Canada,1516,"(55.15416, -119.14111)",Alberta,-38.7,-44.0,-32.0
+2021-02-08,Wembley,Town,Canada,1516,"(55.15416, -119.14111)",Alberta,-32.8,-38.0,-29.0
+2021-02-09,Wembley,Town,Canada,1516,"(55.15416, -119.14111)",Alberta,-34.1,-38.0,-30.0
+2021-02-10,Wembley,Town,Canada,1516,"(55.15416, -119.14111)",Alberta,-30.2,-36.0,-26.0
+2021-02-11,Wembley,Town,Canada,1516,"(55.15416, -119.14111)",Alberta,-30.0,-37.0,-23.0
+2021-02-12,Wembley,Town,Canada,1516,"(55.15416, -119.14111)",Alberta,-21.5,-29.0,-17.0
+2021-02-07,Westlock,Town,Canada,5101,"(54.15544, -113.86003)",Alberta,-38.5,-45.0,-28.0
+2021-02-08,Westlock,Town,Canada,5101,"(54.15544, -113.86003)",Alberta,-34.8,-43.0,-25.0
+2021-02-09,Westlock,Town,Canada,5101,"(54.15544, -113.86003)",Alberta,-28.5,-33.0,-24.0
+2021-02-10,Westlock,Town,Canada,5101,"(54.15544, -113.86003)",Alberta,-27.6,-31.0,-25.0
+2021-02-11,Westlock,Town,Canada,5101,"(54.15544, -113.86003)",Alberta,-26.6,-31.0,-23.0
+2021-02-12,Westlock,Town,Canada,5101,"(54.15544, -113.86003)",Alberta,-21.1,-24.0,-19.0
+2021-02-07,White Sands,Summer village,Canada,120,"(52.46759, -112.8137)",Alberta,-31.4,-35.0,-25.0
+2021-02-08,White Sands,Summer village,Canada,120,"(52.46759, -112.8137)",Alberta,-32.0,-37.0,-27.0
+2021-02-09,White Sands,Summer village,Canada,120,"(52.46759, -112.8137)",Alberta,-30.1,-34.0,-26.0
+2021-02-10,White Sands,Summer village,Canada,120,"(52.46759, -112.8137)",Alberta,-30.3,-34.0,-28.0
+2021-02-11,White Sands,Summer village,Canada,120,"(52.46759, -112.8137)",Alberta,-28.8,-34.0,-24.0
+2021-02-12,White Sands,Summer village,Canada,120,"(52.46759, -112.8137)",Alberta,-22.0,-24.0,-20.0
